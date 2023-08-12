@@ -1,0 +1,3 @@
+- when have to compile the c++ files 
+- g++ -Wall excution.cpp sourcefile.cpp -o excution 
+- 
